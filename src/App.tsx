@@ -1146,7 +1146,7 @@ function App() {
         }}
       >
         <p>Text Block Deduplicator • v2.0 • {new Date().getFullYear()}</p>
-        <p className="mt-1">Optimized for web content preparation for LLM processing</p>
+        <p className="mt-1">Optimized for web content preparation for LLM processing.</p><p> Sponsored by <a href="https://hypenerds.agency">Hype Nerds</a></p>
         <style>{`
           @keyframes gradient {
             0% { background-position: 0% 50%; }
